@@ -2,10 +2,14 @@
   "name": "instant-search-demo",
   "version": "2.0.0",
   "private": true,
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/algolia/instant-search-demo.git"
   },
+=======
+  "repository": "algolia/instant-search-demo",
+>>>>>>> 796be90d911c1a685bb2d564d35e1a58a1c0b3ce
   "author": "Algolia (https://www.algolia.com)",
   "license": "MIT",
   "scripts": {
@@ -39,6 +43,7 @@
   "engines": {
     "node": "9.11.2",
     "npm": "5.10.0"
+<<<<<<< HEAD
   },
   "description": "**Note:** this repository is hosting the demo that was previously located at [algolia/examples](https://github.com/algolia/examples/tree/master/instant-search/instantsearch.js/)",
   "bugs": {
@@ -49,4 +54,7 @@
     "Algolia",
     "assignment"
   ]
+=======
+  }
+>>>>>>> 796be90d911c1a685bb2d564d35e1a58a1c0b3ce
 }
